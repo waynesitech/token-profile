@@ -1,0 +1,18 @@
+{
+  "symbol": "BEAN",
+  "address": "0xb7AE29eFE1788af4992A9Cef677C4cAA95c96990",
+  "overview":{
+        "en": "BEAN DAO Token",
+  },
+  "email": "beandao25@gmail.com",
+  "website": "https://beandao.com/",
+  "state": "NORMAL",
+  "published_on": "2025-03-19",
+  "initial_price":{
+        "BNB":"0.000000 ETH"
+  },
+  "links": {
+    "twitter": "https://x.com/Bean_DAO_2025",
+    "telegram": "https://t.me/bean_dao"
+  }
+}
